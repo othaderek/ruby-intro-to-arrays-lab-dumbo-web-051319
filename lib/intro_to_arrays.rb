@@ -20,3 +20,7 @@ def last_element(a)
   return arr[-1]
 end
 
+def first_element_with_array_methods(arr)
+  arr.shift()
+end
+
