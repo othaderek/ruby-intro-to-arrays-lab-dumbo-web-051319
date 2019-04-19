@@ -24,3 +24,7 @@ def first_element_with_array_methods(arr)
   arr.shift()
 end
 
+def last_element_with_array_methods()
+  arr.pop()
+end
+
